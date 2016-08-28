@@ -1,0 +1,44 @@
+{"frames": {
+
+"Attack_000.png":
+{
+	"frame": {"x":258,"y":1,"w":228,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":43,"w":228,"h":407},
+	"sourceSize": {"w":467,"h":467}
+},
+"Attack_001.png":
+{
+	"frame": {"x":1,"y":1,"w":255,"h":409},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":41,"w":255,"h":409},
+	"sourceSize": {"w":467,"h":467}
+},
+"Attack_002.png":
+{
+	"frame": {"x":749,"y":1,"w":281,"h":402},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":48,"w":281,"h":402},
+	"sourceSize": {"w":467,"h":467}
+},
+"Attack_003.png":
+{
+	"frame": {"x":488,"y":1,"w":259,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":46,"w":259,"h":404},
+	"sourceSize": {"w":467,"h":467}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blockheadOuch-@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":1031,"h":411},
+	"scale": "0.666667",
+	"smartupdate": "$TexturePacker:SmartUpdate:5e655ad472daa0e0c3487feac72697cd:ed652654da733ceb750df1a49a4c2c87:a3e3bedf8c9fd06e7f8d6e8dc7a985bb$"
+}
+}

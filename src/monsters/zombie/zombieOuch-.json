@@ -1,0 +1,44 @@
+{"frames": {
+
+"Attack_000.png":
+{
+	"frame": {"x":132,"y":1,"w":129,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":42,"w":129,"h":184},
+	"sourceSize": {"w":233,"h":233}
+},
+"Attack_001.png":
+{
+	"frame": {"x":1,"y":1,"w":129,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":41,"w":129,"h":185},
+	"sourceSize": {"w":233,"h":233}
+},
+"Attack_002.png":
+{
+	"frame": {"x":407,"y":1,"w":130,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":44,"w":130,"h":182},
+	"sourceSize": {"w":233,"h":233}
+},
+"Attack_003.png":
+{
+	"frame": {"x":263,"y":1,"w":142,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":43,"w":142,"h":183},
+	"sourceSize": {"w":233,"h":233}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zombieOuch-.png",
+	"format": "RGBA8888",
+	"size": {"w":538,"h":187},
+	"scale": "0.333333",
+	"smartupdate": "$TexturePacker:SmartUpdate:48cd8568fac771557f1dabec97b29d49:9ff9400cf38777fe6949a7b24f04d599:b565f5988b5b283bbd508e830e240a11$"
+}
+}
